@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Artemio
 - 👀 I’m interested in programming with Java and Kotlin.
 - 🌱 I’m currently learning Android y Spring.
-- 💞️ I’m looking to collaborate on an Android or Spring project.
+- 💞️ I’m looking to collaborate...
 - 📫 How to reach me <a href="https:https://www.linkedin.com/in/a-derkachev/">LinkedIn</a>
 
 <!---
