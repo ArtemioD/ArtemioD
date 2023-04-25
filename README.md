@@ -6,10 +6,11 @@
  
 - **Languages**:
         
+![kotlin](https://img.shields.io/badge/Kotlin--7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)      
 ![kotlin](https://img.shields.io/badge/Kotlin-_-7F52FF?style=for-the-badges&logo=Kotlin)
 ![java](https://img.shields.io/badge/Java-_-7F52FF?style=for-the-badges&logo=java)
-![pyton](https://img.shields.io/badge/Pyton-_-7F52FF?style=for-the-badges&logo=Python)
-        
+![pyton](https://img.shields.io/badge/Pyyton-_-00000?style=for-the-badges&logo=Python&logoColor=white)
+        python
 </p>
 
 
