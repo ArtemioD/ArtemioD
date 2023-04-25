@@ -2,6 +2,15 @@
         <h1>Hola Soy <a href="https://artemiod.github.io/Resume-CV/about.html">Artemio D.</a>👋</h1>
 </div>
 
+<p align="center">
+ 
+- **Languages**:
+        
+![kotlin](https://img.shields.io/badge/Kotlin-_-7F52FF?style=for-the-badges&logo=Kotlin)
+![java](https://img.shields.io/badge/Java-_-7F52FF?style=for-the-badges&logo=java)
+![pyton](https://img.shields.io/badge/Pyton-_-7F52FF?style=for-the-badges&logo=Python)
+        
+</p>
 
 
 - 👋 Hi, I’m @Artemio
@@ -15,6 +24,6 @@ ArtemioD/ArtemioD is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![kotlin](https://img.shields.io/badge/Kotlin-_-7F52FF?style=for-the-badges&logo=Kotlin)
-![java](https://img.shields.io/badge/Java-_-7F52FF?style=for-the-badges&logo=java)
-![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+
+
+
