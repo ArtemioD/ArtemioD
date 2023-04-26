@@ -57,8 +57,24 @@
 <br>
 
 <li>
+<a href="https://play.google.com/store/apps/developer?id=Artemio+D" target="_blank">
+<img src="https://img.shields.io/badge/play:  Artemio Derkachev-%23e8c11e.svg?style=for-the-badge&logo=googleplay&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://www.youtube.com/@artemioderkachev8962/videos" target="_blank">
+<img src="https://img.shields.io/badge/youtube:  Artemio Derkachev-%23EA4335.svg?style=for-the-badge&logo=youtube&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+
+<br>
+
+<li>
 <a href="mailto:artemio.derkachev@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Artemio Derkachev-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Artemio Derkachev-%23FFFFFF.svg?style=for-the-badge&logo=gmail&logoColor=RED" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
