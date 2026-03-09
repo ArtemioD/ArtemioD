@@ -1,4 +1,7 @@
-<h1 align="center">Hola, Soy Artemio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Artemio 👋</h1>
+<!--
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+-->
 
 
 <p align="center">
@@ -18,7 +21,7 @@ Building mobile apps with Kotlin, Jetpack Compose and modern Android tools.
 
 <hr>
 
-## 🚀 Projects
+## 🚀  What I Work On
 
 - 📱 Android apps published on Google Play
 - 🗺 Android apps with Maps, QR Scanner and Firebase integration
